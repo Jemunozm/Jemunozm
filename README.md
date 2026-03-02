@@ -48,8 +48,9 @@ My interests include embedded communication, low-power systems, and robust firmw
 - GitHub: [@Jemunozm] (https://github.com/Jemunozm)
 - LinkedIn: *https://www.linkedin.com/in/jeviz/*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jemunozm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemunozm&layout=compact)
+
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![Linux](https://img.shields.io/badge/Linux-OS-black)
 
