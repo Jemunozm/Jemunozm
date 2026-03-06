@@ -111,3 +111,26 @@ This project includes:
 
 > Note: The folder `14_FPU2` is currently misnamed.
 > It actually contains the **TFT LCD driver and graphics demo**, not an FPU-related implementation.
+
+## Connect With Me
+- LinkedIn: *https://www.linkedin.com/in/jeviz/*
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  </a>
+  <a href="https://fortran-lang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="40" />
+  </a>
+  <a href="https://gcc.gnu.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" />
+  </a>
+</p>
+
+---
