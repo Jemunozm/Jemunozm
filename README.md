@@ -1,87 +1,113 @@
-# Hi there, I'm Jesus
+# Hi, I'm Jesus Muñoz
 
-Engineering Phycics | Embedded Systems & Software  
-Colombia  
+Engineering Physics student focused on **embedded systems, firmware development, and hardware–software interaction**.
 
 ---
 
 ## About Me
 
-I am an Engineering Physics student with a strong interest in **embedded systems and hardware–software interaction**. I worked as a **Teaching Assistant for STM32 microcontrollers**, where I supported laboratory sessions, guided students through peripheral configuration, and assisted in the development and debugging of embedded projects.
-Through this experience, I developed a strong focus on **understanding microcontroller architecture and system behavior**, encouraging students to go beyond high-level abstractions and analyze how software interacts directly with hardware.
-I particularly enjoy working with **datasheets and reference manuals to implement my own drivers**, configuring peripherals at a low level and building structured firmware for reliable embedded applications.
+I worked as a **Teaching Assistant for STM32 microcontrollers**, where I supported laboratory sessions, helped students configure peripherals, and assisted in debugging embedded projects.
 
-My interests include embedded communication, low-power systems, and robust firmware design.
-
-- Experience with low-level programming and hardware interaction  
-- Interested in wireless communication and embedded networking  
-- Always learning and improving my engineering skills  
+My main interest is understanding how software interacts directly with hardware. I enjoy working with **datasheets and reference manuals to implement custom drivers**, configure peripherals, and build structured firmware for reliable embedded applications.
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 **Languages**
-- C
-- Python
-- Fortran
-- Bash
 
-**Embedded & Hardware**
-- STM32
-- Raspberry Pi
-- Microcontrollers & sensors
+- C  
+- Python  
+- Fortran  
+- Bash  
 
-**Tools & Platforms**
-- Git & GitHub
-- Linux
-- STM32CubeIDE
+</td>
+
+<td width="33%" valign="top">
+
+**Hardware**
+
+- STM32  
+- Raspberry Pi  
+- ESP32  
+- LCD TFT  
+
+</td>
+
+<td width="33%" valign="top">
+
+**Tools**
+
+- Git & GitHub  
+- Linux  
+- STM32CubeIDE  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Embedded Skills
+
+- Reading **datasheets and reference manuals**
+- Writing **custom drivers**
+- Peripheral configuration  
+  - UART  
+  - SPI  
+  - I2C  
+  - PWM  
+  - Timers
+- Low-level debugging
+- Structured firmware development
 
 ---
 
 ## Current Focus
-- Studying and applying **FreeRTOS** to design real-time embedded systems  
-- Developing hands-on projects using **CAN Bus** and **Bluetooth Low Energy (BLE)** communication  
-- Improving my skills in **embedded communication protocols and system architecture**  
-- Expanding my GitHub with structured projects that reflect practical engineering development
 
----
-## Upcoming Projects
-
-- **FreeRTOS Task Scheduling Demo**  
-  Exploring task management, priorities, and real-time scheduling on STM32.
-
-- **CAN Bus Multi-Node Communication**  
-  Implementing communication between multiple embedded nodes using CAN.
-
-- **BLE Embedded Communication**  
-  Developing a BLE-enabled embedded device for wireless data transmission.
-
-These projects aim to strengthen my understanding of **real-time systems, embedded communication, and firmware architecture**.
----
-
-## Connect With Me
-- LinkedIn: *https://www.linkedin.com/in/jeviz/*
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  </a>
-  <a href="https://fortran-lang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="40" />
-  </a>
-  <a href="https://gcc.gnu.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" />
-  </a>
-</p>
+- Learning and applying **FreeRTOS**
+- Developing embedded projects using **CAN Bus**
+- Exploring **Bluetooth Low Energy (BLE)**
+- Strengthening **real-time system design**
 
 ---
 
-## Fun Fact
-I enjoy breaking complex physical and mathematical concepts into simple explanations.
+## Featured Projects
+
+### STM32 Workshop – Bare-Metal Peripheral Development
+
+https://github.com/Jemunozm/Jemunozm_TallerV
+
+This repository contains a collection of **embedded projects developed for the STM32F411RE microcontroller**.
+Each folder represents an individual project focused on understanding and implementing **microcontroller peripherals at a low level**.
+
+The projects were developed using **manually written libraries and drivers**, emphasizing direct interaction with hardware registers and reference manuals rather than autogenerated code or AI-generated implementations.
+
+#### Topics explored in the repository
+
+* GPIO configuration and interrupt handling
+* Timer configuration and timing control
+* USART communication
+* SPI communication
+* PWM generation
+* SysTick timing
+* ADC configuration
+* OLED display communication
+
+#### TFT LCD Driver and Embedded Graphics Demo
+
+One of the most complex projects in the repository involves developing a **custom driver for a 3.2" TFT LCD display (320×240) using the ILI9341 controller**.
+
+This project includes:
+
+* Implementation of a **low-level display driver**
+* Communication with the display controller
+* Basic graphics routines
+* A **simple video game used to demonstrate the functionality of the display driver**
+
+> Note: The folder `14_FPU2` is currently misnamed.
+> It actually contains the **TFT LCD driver and graphics demo**, not an FPU-related implementation.
